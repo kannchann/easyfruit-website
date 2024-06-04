@@ -8,11 +8,13 @@ body{
     color:white;
 }
 
-
+.card-body-custom {
+    height: 350px; /* Adjust the height as needed */
+    overflow: hidden; /* Hide overflowing content */
+}
 .testimonial_qoute{
     color: #fe7316;
-    width: 32px;
-    height: 32px;
+   
 }
 
 .card {
