@@ -1,0 +1,94 @@
+body{
+    font-family: "Poppins", sans-serif;
+
+}
+
+.custom-btn{
+    background-color: #fe7316;
+    color:white;
+}
+
+
+.testimonial_qoute{
+    color: #fe7316;
+    width: 32px;
+    height: 32px;
+}
+
+.card {
+    transition: transform 0.6s ease, box-shadow 0.6s ease;
+    border-radius: 15px;
+    
+  }
+  .card:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    opacity: 0.9;
+   
+  }
+
+  .card-t {
+    display: none; /* Hide the text by default */
+}
+
+.card:hover .card-t {
+    display: block; /* Display the text when the card is hovered over */
+}
+
+
+/* fonts  */
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  
